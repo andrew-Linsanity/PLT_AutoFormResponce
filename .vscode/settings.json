@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/johnlin/Downloads/javamail-1.4.7/mail.jar"
+    ]
+}
